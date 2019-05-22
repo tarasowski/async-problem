@@ -28,6 +28,7 @@ The solutions are best read in the following order:
   - [__most.js__](./most.js)
   - [__coroutines-co.js__](./coroutines-co.js)
   - [__coroutines-bluebird.js__](./coroutines-bluebird.js)
+  - [__promise-chaining.js___](./promise-chaining.js)
   - [__await.js__](./await.js)
   - [__futures.js__](./futures.js)
   - [__callbacks-revenge.js__](./callbacks-revenge.js)
